@@ -1,7 +1,7 @@
 import './App.css';
 import data from './data.json';
 
-const events = ["Berlin Conference", "Hamburg Conference", "Leipzig Meeting", "Munich Party", "Hannover Book Fair"];
+// const events = ["Berlin Conference", "Hamburg Conference", "Leipzig Meeting", "Munich Party", "Hannover Book Fair"];
 
 function App() {
   return (
